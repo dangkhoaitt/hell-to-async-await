@@ -1,0 +1,23 @@
+{
+  "name": "hell-to-async-await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ap.js",
+  "scripts": {
+    "start": "nodemon start app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangkhoaitt/hell-to-async-await.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangkhoaitt/hell-to-async-await/issues"
+  },
+  "homepage": "https://github.com/dangkhoaitt/hell-to-async-await#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
